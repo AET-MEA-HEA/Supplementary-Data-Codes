@@ -66,11 +66,8 @@ The tracing codes can be found in [Tracing_codes](https://github.com/AET-Metalli
 
 Folder: [Data_analysis_properties](./4_Data_analysis_properties)
 
-Run the code `Main_1_calculate_local_displacement.m` to calculate the bond orientation order parameter and the average nearby Pt bond length for all the atoms in the M/HEA nanoparticles.
-
-Run the code `Main_2_plot_twin_op.m` to plot the twin order parameters for all the atoms in the M/HEA nanoparticles.
-
-Run the code `Main_3_strain_map.m` to plot the strain map of the M/HEA nanoparticles.
-
-Run the code `Main_4_calc_csro.m` to calculate the chemical short-range order of the M/HEA nanoparticles.
+Run the code `Main_1_calculate_local_displacement.m` to calculate the bond orientation order parameter and the average nearby Pt bond length for all the atoms in the M/HEA nanoparticles.   
+Run the code `Main_2_plot_twin_op.m` to plot the twin order parameters for all the atoms in the M/HEA nanoparticles.    
+Run the code `Main_3_strain_map.m` to plot the strain map of the M/HEA nanoparticles.    
+Run the code `Main_4_calc_csro.m` to calculate the chemical short-range order of the M/HEA nanoparticles.    
 
