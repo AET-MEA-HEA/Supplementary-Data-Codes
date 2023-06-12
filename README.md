@@ -18,8 +18,9 @@ Saman Moniri<sup>1*</sup>, Yao Yang<sup>1*</sup>, Yakun Yuan<sup>1</sup>, Jihan 
 
 # Overview
 
-Medium- and high-entropy alloys (M/HEAs) mix multiple principal elements with near-equiatomic composition and represent a paradigm-shift strategy for designing new materials for metallurgy, catalysis, and other fields. One of the core hypotheses of M/HEAs is lattice distortion5,19,20, which has been investigated by numerical simulations, x-ray diffraction, and high-resolution transmission electron microscopy. However, experimentally determining the three-dimensional (3D) 
-local lattice distortion in M/HEAs remains a challenge. Additionally, the presumed random elemental mixing in M/HEAs has been questioned by atomistic simulations, energy dispersive x-ray spectroscopy (EDS), and electron diffraction, which suggest the existence of local chemical order in M/HEAs. However, the 3D local chemical order has eluded direct experimental observation since the EDS elemental maps integrate the composition of atomic columns along the zone axes, and the diffuse reflections/streaks in electron diffraction of M/HEAs may originate from planar defects instead of local chemical order. Here, we determine the 3D atomic positions of M/HEA nanocrystals using atomic electron tomography, and quantitatively characterize the local lattice distortion, strain tensor, twin boundaries, dislocation cores, and chemical short-range order (CSRO) with unprecedented 3D detail. We find that the local lattice distortion and strain tensor in the HEAs are larger and more heterogeneous than in the MEAs. We observe CSRO-mediated twinning in the MEAs, that is, twinning occurs in energetically unfavoured CSRO regions but not in energetically favoured CSRO ones. This observation confirms the atomistic simulation results of the bulk CrCoNi MEA27,29 and represents the first experimental evidence of correlating local chemical order with structural defects in any material system. We expect that this work will not only expand our fundamental understanding of this important class of materials, but also could provide the foundation for tailoring M/HEA properties through lattice distortion and local chemical order.
+Medium- and high-entropy alloys (M/HEAs) mix multiple principal elements with near-equiatomic composition and represent a paradigm-shift strategy for designing new materials for metallurgy, catalysis, and other fields. One of the core hypotheses of M/HEAs is lattice distortion5,19,20, which has been investigated by numerical simulations, x-ray diffraction, and high-resolution transmission electron microscopy. However, experimentally determining the three-dimensional (3D) local lattice distortion in M/HEAs remains a challenge. Additionally, the presumed random elemental mixing in M/HEAs has been questioned by atomistic simulations, energy dispersive x-ray spectroscopy (EDS), and electron diffraction, which suggest the existence of local chemical order in M/HEAs. However, the 3D local chemical order has eluded direct experimental observation since the EDS elemental maps integrate the composition of atomic columns along the zone axes, and the diffuse reflections/streaks in electron diffraction of M/HEAs may originate from planar defects instead of local chemical order. 
+
+Here, we determine the 3D atomic positions of M/HEA nanocrystals using atomic electron tomography, and quantitatively characterize the local lattice distortion, strain tensor, twin boundaries, dislocation cores, and chemical short-range order (CSRO) with unprecedented 3D detail. We find that the local lattice distortion and strain tensor in the HEAs are larger and more heterogeneous than in the MEAs. We observe CSRO-mediated twinning in the MEAs, that is, twinning occurs in energetically unfavoured CSRO regions but not in energetically favoured CSRO ones. This observation confirms the atomistic simulation results of the bulk CrCoNi MEA27,29 and represents the first experimental evidence of correlating local chemical order with structural defects in any material system. We expect that this work will not only expand our fundamental understanding of this important class of materials, but also could provide the foundation for tailoring M/HEA properties through lattice distortion and local chemical order.
 
 # System Requirements
 
@@ -37,7 +38,7 @@ Mac OSX: We have not tested it on a Mac yet, but it should in principle work.
 
 ### Matlab Version Requirements
 
-This package has been tested with `Matlab` R2019b. All the codes have to run in their own folders. We recommend the use of `Matlab` version R2018a or higher to test the data and source codes.
+This package has been tested with `Matlab` R2022a. All the codes have to run in their own folders. We recommend the use of `Matlab` version R2021a or higher to test the data and source codes.
 
 # Repositary Contents
 
@@ -65,7 +66,7 @@ The tracing codes can be found in [Tracing_codes](https://github.com/AET-Metalli
 
 Folder: [Data_analysis_properties](./4_Data_analysis_properties)
 
-Run the code `Main_1_calculate_local_displacement.m` to calculate the bond orientation order parameter and the average nearby Pt bond length for all the atoms in the M/HEA nanoparticles.    
+Run the code `Main_1_calculate_local_displacement.m` to calculate the bond orientation order parameter and the average nearby Pt bond length for all the atoms in the M/HEA nanoparticles.
 Run the code `Main_2_plot_twin_op.m` to plot the twin order parameters for all the atoms in the M/HEA nanoparticles.   
 Run the code `Main_3_strain_map.m` to plot the strain map of the M/HEA nanoparticles.
 Run the code `Main_4_calc_csro.m` to calculate the chemical short-range order of the M/HEA nanoparticles.
