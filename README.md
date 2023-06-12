@@ -33,7 +33,7 @@ We recommend a computer with 16G DRAM, standard i7 4-core CPU, and a GPU to run 
 This package has been tested on the following Operating System:
 
 Linux: CentOS 6 2.6.32    
-Windows: Windows 10 18368.778    
+Windows: Windows 11 22621.1702    
 Mac OSX: We have not tested it on a Mac yet, but it should in principle work.     
 
 ### Matlab Version Requirements
