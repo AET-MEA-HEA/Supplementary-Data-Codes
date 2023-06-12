@@ -2,7 +2,7 @@
 
 **Three-dimensional atomic positions and local chemical order of medium-and high-entropy alloys**
 
-Saman Moniri<sup>1*</sup>, Yao Yang<sup>1*</sup>, Yakun Yuan<sup>1</sup>, Jihan Zhou<sup>1</sup>, Long Yang<sup>1*</sup>, Fan Zhu<sup>1</sup>, Yuxuan Liao<sup>1</sup>, Yonggang Yao<sup>2</sup>, Liangbing Hu<sup>2</sup>, Peter Ercius<sup>3</sup>, Jun Ding<sup>4</sup> & Jianwei Miao<sup>1†</sup>    
+Saman Moniri<sup>1*</sup>, Yao Yang<sup>1*</sup>, Yakun Yuan<sup>1</sup>, Jihan Zhou<sup>1</sup>, Long Yang<sup>1</sup>, Fan Zhu<sup>1</sup>, Yuxuan Liao<sup>1</sup>, Yonggang Yao<sup>2</sup>, Liangbing Hu<sup>2</sup>, Peter Ercius<sup>3</sup>, Jun Ding<sup>4</sup> & Jianwei Miao<sup>1†</sup>    
 
 *<sup>1</sup>Department of Physics & Astronomy and California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.*    
 *<sup>2</sup>Department of Materials Science and Engineering, University of Maryland, College Park, MD, USA.*      
