@@ -24,7 +24,7 @@ Here, we determine the 3D atomic positions of M/HEA nanocrystals using atomic el
 
 # System Requirements
 
-We recommend a computer with 16G DRAM, standard i7 4-core CPU, and a GPU to run most data analysis source codes. But for the 3D reconstruction of the experimental data with RESIRE, atomic tracing and the determination of the MROs, we recommend a computer with large memory (256G DRAM, 16-core CPU and 1 GPU).
+We recommend a computer with 16G DRAM, standard i7 4-core CPU, and a GPU to run most data analysis source codes. But for the 3D reconstruction of the experimental data with RESIRE, atomic tracing and the calculation of properties such as local displacement, strain tensor and chemical short-range order, we recommend a computer with large memory (256G DRAM, 16-core CPU and 1 GPU).
 
 ## Software Requirements
 
