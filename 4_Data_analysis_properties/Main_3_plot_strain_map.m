@@ -1,8 +1,7 @@
 %% Main_3_strain_map
-% collect all parameters and compile them into one file
-% calculate the generalized coordination number, 
-% elemental generalized coordination number, strain
-% and other properties inside 
+% example plot of the strain tensor of MEA 1
+% the strain tensor is calculated by lattice fitting method described
+% elsewhere
 
 clear; clc; close all;
 %%

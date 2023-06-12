@@ -1,5 +1,7 @@
 %% Main_1_calculate_local_displacement
 % calculate the local displacements for each NPs
+% first fitting by breadth-first algorithm provided elsewhere
+% then use the deviation between the nearest neighbours and fitted template
 
 close all; clear; clc;
 %%
@@ -85,16 +87,16 @@ fprintf('deviation of HEA 2 —— mean: %.02f, std: %.02f\n',mean(sigStrain),st
 %%
 figure(12); clf; hold on; set(gcf,'position',[300,250,300,400]);
 b1 = bar(X, N1); xlim([0,0.8]); ylim([0,0.3]);
-b1.EdgeColor = 'k'; box on;
+b1.EdgeColor = 'k'; box on; title('MEA 1');
 
 figure(13); clf; hold on; set(gcf,'position',[600,250,300,400]);
 b1 = bar(X, N2); xlim([0,0.8]); ylim([0,0.3]);
-b1.EdgeColor = 'k'; box on;
+b1.EdgeColor = 'k'; box on; title('MEA 2');
 
 figure(14); clf; hold on; set(gcf,'position',[900,250,300,400]);
 b3 = bar(X, N3); xlim([0,0.8]); ylim([0,0.3]);
-b3.EdgeColor = 'k'; box on;
+b3.EdgeColor = 'k'; box on; title('HEA 1');
 
 figure(15); clf; hold on; set(gcf,'position',[1200,250,300,400]);
 b1 = bar(X, N4); xlim([0,0.8]); ylim([0,0.3]);
-b1.EdgeColor = 'k'; box on;
+b1.EdgeColor = 'k'; box on; title('HEA 2');

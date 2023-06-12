@@ -3,7 +3,10 @@
 % try to rotate the figures to see the zone axis and twin boundaries
 
 clear; clc; close all;
-%%
+%% load the calculated twin order parameters
+% the twin order parameters are calculated by fitting the nearest
+% neighbours of each atom with different template by the breadth search
+% algorthm metioned before
 load('HEA_twin_op.mat')
 load('MEA_twin_op.mat')
 %%
@@ -11,7 +14,7 @@ MEA_ind = [1,4,2];
 for i = 1:3
     ind = MEA_ind(i);
     figure(20+i); clf; hold on;
-    set(gcf,'position',[50+550*i-550,350,550,700]);
+    set(gcf,'position',[50+550*i-550,350,550,600]);
     twin_op = MEA_op_arr{ind,3};
     twin_op = min(max(twin_op,-3),3);
     twin_op_size = 80*((twin_op-min(twin_op))/(max(twin_op)-min(twin_op))+0.01);
@@ -38,7 +41,7 @@ HEA_ind = [1,2];
 for i = 1:2
     ind = HEA_ind(i);
     figure(23+i); clf; hold on;
-    set(gcf,'position',[50+550*i-550,50,550,700]);
+    set(gcf,'position',[50+550*i-550,50,550,600]);
     twin_op = HEA_op_arr{ind,3};
     twin_op = min(max(twin_op,-3),3);
     twin_op_size = 80*((twin_op-min(twin_op))/(max(twin_op)-min(twin_op))+0.01);

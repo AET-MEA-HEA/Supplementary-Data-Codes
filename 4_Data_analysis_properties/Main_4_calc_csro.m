@@ -1,6 +1,6 @@
 %% Main_4_calc_csro
-% plot the twin order parameters for NPs with different structures
-% try to rotate the figures to see the zone axis and twin boundaries
+% calculate the chemical short-range order and assemble them on the cubic
+% grids. Then plot one example of MEA 1
 
 clear; clc; close all;
 %%
@@ -116,7 +116,6 @@ for ind = 1:3
     type_ind = type_arr(ind);
 fgrid1 = fgrid1_arr(:,:,:,type_ind);
 fgrid2 = imgaussfilt3(fgrid1,0.5);
-% fgrid2 = fgrid1;
 
 mat1 = MatrixQuaternionRot([1,-1,0],acosd(dot([0,0,1],[1,1,1])/sqrt(3)));
 mat2 = MatrixQuaternionRot([0,0,1],acosd(dot([1,0,0],[1,1,0])/sqrt(2)));
