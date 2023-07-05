@@ -1,7 +1,7 @@
 %% Main_3_strain_map
 % example plot of the strain tensor of MEA 1
 % the strain tensor is calculated by lattice fitting method described
-% elsewhere
+% elsewhere [Nature materials 14.11 (2015): 1099-1103]
 
 clear; clc; close all;
 %%
