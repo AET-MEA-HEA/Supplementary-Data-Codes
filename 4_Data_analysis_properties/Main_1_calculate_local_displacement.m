@@ -1,6 +1,6 @@
 %% Main_1_calculate_local_displacement
 % calculate the local displacements for each NPs
-% first fitting by breadth-first algorithm provided elsewhere
+% first fitting by breadth-first algorithm provided elsewhere [Nature 592.7852 (2021): 60-64]
 % then use the deviation between the nearest neighbours and fitted template
 
 close all; clear; clc;
