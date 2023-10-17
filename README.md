@@ -1,6 +1,6 @@
 # Supplementary Data Codes 
 
-**Three-dimensional atomic positions and local chemical order of medium-and high-entropy alloys**
+**3D atomic structure and local chemical order of medium/high-entropy nanoalloys**
 
 Saman Moniri<sup>1*</sup>, Yao Yang<sup>1*</sup>, Jun Ding<sup>2*</sup>, Yakun Yuan<sup>1</sup>, Jihan Zhou<sup>1</sup>, Long Yang<sup>1</sup>, Fan Zhu<sup>1</sup>, Yuxuan Liao<sup>1</sup>, Yonggang Yao<sup>3</sup>, Liangbing Hu<sup>3</sup>, Peter Ercius<sup>4</sup> & Jianwei Miao<sup>1†</sup>    
 
