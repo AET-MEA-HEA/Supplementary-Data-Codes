@@ -27,6 +27,7 @@ Here, we determine the 3D atomic positions of M/HEA nanoparticles using atomic e
 
 The extended figures 8 and 9 are revised correspondingly. 
 
+!(M_HEA_extFig8_revised.jpg)
 **Extended Data Fig. 8 | 3D distribution of the six CSRO parameters in twin-free HEA-4. a-f**, 3D distribution of α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub>, which are more heterogeneous than those of the twin-free MEAs (Fig. 3a,b, Extended Data Fig. 5a–d). **g-l**, Histograms of the average α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub> values for the atomic layer along the [111] direction. Scale bar, 1 nm.
 
 **Extended Data Fig. 9 | 3D distribution of the six CSRO parameters in double-twinned HEA-2. a-f**, 3D distribution of α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub>, exhibiting greater local chemical fluctuations than the double-twinned MEA (Fig. 3e,f, Extended Data Figs. 5i–l and 6a–f). **g-l**, Histograms of the average α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub> values of the atomic layer along the [111] direction. **m**, Histogram of the average values for the six CSRO parameters of a DFT-calculated bulk HEA, twin-free HEA-4, and double-twinned HEA-2. Scale bar, 1 nm.
