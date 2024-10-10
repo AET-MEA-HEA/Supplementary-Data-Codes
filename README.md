@@ -27,7 +27,7 @@ Here, we determine the 3D atomic positions of M/HEA nanoparticles using atomic e
 
 The extended figures 8 and 9 are revised correspondingly. 
 
-![image](M_HEA_extFig8_revised.jpg)
+
 
 **Extended Data Fig. 8 | 3D distribution of the six CSRO parameters in twin-free HEA-4. a-f**, 3D distribution of α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub>, which are more heterogeneous than those of the twin-free MEAs (Fig. 3a,b, Extended Data Fig. 5a–d). **g-l**, Histograms of the average α<sub>11</sub>, α<sub>22</sub>, α<sub>33</sub>, α<sub>12</sub>, α<sub>13</sub>, and α<sub>23</sub> values for the atomic layer along the [111] direction. Scale bar, 1 nm.
 
