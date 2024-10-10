@@ -23,9 +23,7 @@ Medium- and high-entropy alloys (M/HEAs) mix multiple principal elements with ne
 
 Here, we determine the 3D atomic positions of M/HEA nanoparticles using atomic electron tomography, and quantitatively characterize the local lattice distortion, strain tensor, twin boundaries, dislocation cores, and chemical short-range order (CSRO). We find that the HEAs have larger local lattice distortion and more heterogeneous strain than the MEAs and strain is correlated with CSRO. We also observe CSRO-mediated twinning in the MEAs, that is, twinning occurs in energetically unfavoured CSRO regions but not in energetically favoured CSRO ones, which represents the first experimental observation of correlating local chemical order with structural defects in any material. We expect that this work will not only expand our fundamental understanding of this important class of materials, but also could provide the foundation for tailoring M/HEA properties through engineering lattice distortion and local chemical order. 
 
-# Revisions to Extended Data Figures 8 and 9
-
-The extended figures 8 and 9 are revised correspondingly. 
+# Revised Extended Data Figures 8 and 9
 
 ![image](M_HEA_extFig8_revised.jpg)
 
